@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XyItmlGpKVDPr6a/MAmkqzVjilp3e/yMtrQnABQ7yb8=",
+  "Source": "FancyApp.Api",
+  "BasePath": "_content/FancyApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
